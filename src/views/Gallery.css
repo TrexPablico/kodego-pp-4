@@ -1,0 +1,29 @@
+.carohero {
+  height: 500px;
+}
+
+.hero img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+.card-body {
+  height: 500px;
+}
+
+.card-img-top {
+  height: 450px;
+  width: 100%;
+  object-fit: cover;
+}
+.btn-primary {
+  margin-top: auto;
+}
+.card-body {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+.card {
+  margin-bottom: 20px;
+}
